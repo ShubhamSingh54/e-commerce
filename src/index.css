@@ -199,7 +199,7 @@ button {
 .cart-items .cart-total {
   background-color: white;
   padding: 20px;
-  height: 150px;
+  height: 100%;
   margin-bottom: 30px;
 }
 
