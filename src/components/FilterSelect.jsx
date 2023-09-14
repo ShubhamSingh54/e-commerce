@@ -10,7 +10,9 @@ const options = [
 ];
 
 const customStyles = {
-    control: (provided) => ({
+    control: (
+        provided
+    ) => ({
         ...provided,
         backgroundColor: "#0f3460",
         color: "white",
