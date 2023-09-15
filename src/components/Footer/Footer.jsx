@@ -37,9 +37,9 @@ const Footer = () => {
             <Col md={3} sm={5} className='box'>
               <h2>Contact Us</h2>
               <ul>
-                <li>Address:1234 Street Name City, AA 99999</li>
-                <li>Email: yourmail@example.com</li>
-                <li>Phone: +1 (0) 000 0000 001</li>
+                <li>Address:murli Nagar , Delhi INDIA</li>
+                <li>Email: EcommerceStore.com</li>
+                <li>Phone: +911234567893</li>
               </ul>
             </Col>
           </Row>
